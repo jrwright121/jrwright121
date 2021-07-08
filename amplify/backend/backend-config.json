@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "jrwright12122659919": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
