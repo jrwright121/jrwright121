@@ -24,5 +24,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "jrwright121images": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
